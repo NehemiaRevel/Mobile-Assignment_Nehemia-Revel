@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">favoritemovie</string>
+    <string name="movie">Movie</string>
+    <string name="detail">Detail</string>
+    <string name="genre">Genre</string>
+    <string name="year">Year</string>
+    <string name="favorit_movie">Favorit Movie</string>
+    <string name="profile">Profile</string>
+    <string name="nama">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="angkatan">Angkatan</string>
+</resources>
